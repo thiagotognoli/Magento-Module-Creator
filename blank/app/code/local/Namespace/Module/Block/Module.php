@@ -14,4 +14,4 @@ class <Namespace>_<Module>_Block_<Module> extends Mage_Core_Block_Template
         return $this->getData('<module>');
         
     }
-}
+}dff
